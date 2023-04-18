@@ -1,0 +1,37 @@
+body{
+    font-size: 20px;
+}
+
+h1{
+    text-align: center;
+    text-shadow: 3px 5px 3px #777;
+
+}
+h2{
+    text-align: right;
+}
+#primeiro{
+    font-family: Arial, Helvetica, sans-serif;
+    /*font-size: 30px;*/
+    font-variant: small-caps;
+    text-align:  justify;
+    /*text-decoration: underline;*/
+    /* text-decoration:*/
+
+} 
+
+#segundo{
+  /*  font-size:150%; */
+    font-weight:bold ;
+    text-transform: capitalize;
+    line-height: 25px;
+    letter-spacing:  2px;
+    word-spacing: 5px;
+    text-indent: 30px;
+    
+}
+
+#exemplo{
+    font-weight: bold;
+    color:red;
+}
